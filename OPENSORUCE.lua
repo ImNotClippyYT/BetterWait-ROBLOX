@@ -28,7 +28,7 @@ As you can see, this is much faster than task.wait() or wait()
 
 Enjoy! :)
 
-(ONLY GET THIS FROM: )
+(ONLY GET THIS FROM: https://github.com/ImNotClippyYT/BetterWait-ROBLOX/tree/main )
 -----------------------------------------------------------]]
 
 local THIS_MODULE_HAS_BETTER_WAIT = {}
